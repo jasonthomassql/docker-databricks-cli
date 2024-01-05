@@ -16,13 +16,13 @@ Docker will automatically install the newly built image into the cache.
 # Tips and Tricks
 Create a .databrickscfg file in your git folder.  Paste the following into that file:
 
-[DEFAULT]
+```[DEFAULT]
 host  = <yourhost>
-token = <xxxxxxxxxxxxxxxxxx>
+token = <xxxxxxxxxxxxxxxxxx>```
 
 ## Launching The Image
-Use `./databricks-cli-cmd.sh` to get your databricks version.
-Use `./databricks-cli-cmd.sh "jobs list"` to get your current jobs.
+* Use `./databricks-cli-cmd.sh` to get your databricks version.
+* Use `./databricks-cli-cmd.sh "jobs list"` to get your current jobs.
 
 # Troubleshooting
 
