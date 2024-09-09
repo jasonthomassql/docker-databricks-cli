@@ -1,7 +1,6 @@
 # Overview
 This project is a simple Docker image that provides access to the latest -preview-
-[Databricks (CLI Client)](https://docs.databricks.com/en/dev-tools/cli/).  
-
+[Databricks (CLI Client)](https://docs.databricks.com/en/dev-tools/cli/install.html).  
 
 # Prerequisites
 * a working [Docker](http://www.docker.com) engine
